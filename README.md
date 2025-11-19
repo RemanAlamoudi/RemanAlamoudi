@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi there! 👋
 
-<!--
-**RemanAlamoudi/RemanAlamoudi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Reman Alamoudi**, a **Junior Software Engineering student at Jeddah University**.  
+I enjoy creating **clean, functional, and aesthetically pleasing front-end projects** with thoughtful **UX/UI design**.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Besides front-end development, I am exploring **back-end development** and enjoy learning through hands-on projects.  
+I am motivated to **grow my skills, experiment, and improve** through trial and error.
+
+## Languages & Tools
+
+HTML5 | CSS3 | JavaScript | Java | Flutter | Git | Figma | Framer | Node.js | Express | MongoDB | Postman | Python
+
+## Latest Projects
+
+Currently working on several projects that showcase my **front-end and UX/UI skills**.  
+More updates coming soon!
